@@ -109,6 +109,8 @@ h4 {
     margin-left: 27%;
 }
 
+
+
 iframe{
     margin-left: 20%;
 }
@@ -121,7 +123,7 @@ table {
     font-family: 'Times New Roman', Times, serif;
   }
   
-  td {
+td {
     font-size: xx-large;
     font-family: 'Times New Roman', Times, serif;
     border: 1px solid rgb(209, 10, 103);
@@ -215,3 +217,16 @@ footer p {
     font-size: xx-large;
     font-style: italic;
   }
+
+  #panel, #flip {
+    padding: 5px;
+    text-align: center;
+    font-size: 30px;
+    background-color: #c77ab2;
+    border: solid 1px #b25c95;
+  }
+  
+  #panel {
+    padding: 50px;
+    display: none;
+  }  

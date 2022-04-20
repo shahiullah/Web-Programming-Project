@@ -36,3 +36,10 @@ function saveToFile(){
           alert('Thank You for submitting! We will contact you shortly!')
           
 }
+
+
+$(document).ready(function(){
+    $("#flip").click(function(){
+      $("#panel").slideDown("slow");
+    });
+  });
