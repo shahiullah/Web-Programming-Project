@@ -33,7 +33,7 @@ function saveToFile(){
 
           
 
-          alert('Thank You for submitting! We will contact you shortly!')
+          alert('Thank You for signing up! One of our representatives will contact with you soon!')
           
 }
 
